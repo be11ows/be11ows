@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @be11ows
-- 👀 I’m interested in the transformative power of true decentralization
-- 🌱 I’m currently learning Qortal qulture and code.
+- 👀 I’m interested in the transformative power of decentralization
+- 🌱 I’m currently learning Qortal qulture and full stack skills.
 - 💞️ I’m looking to collaborate on an architectural overview of the Qortal UI Codebase.
 - 📫 How to reach me ---> 'be11ows' on discord.
 
